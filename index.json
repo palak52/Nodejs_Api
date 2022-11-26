@@ -1,0 +1,4 @@
+{
+    "dbUri": "mongodb+srv://cluster0.4as8hur.mongodb.net/myFirstDatabase",
+     "secret": "a secret phrase!!"
+ }
